@@ -1,0 +1,64 @@
+<DOCTYPE!>
+<HTML>
+<HEAD>
+<STYLE TYPE="text/css">
+p1
+
+{
+BORDER:2PX SOLID BLACK; 
+FONT-SIZE:16PT; 
+}
+</STYLE>
+</HEAD>
+<BODY>
+ <h>
+
+       <IMG SRC="C:\Users\HUDAN\Pictures\HUDAN LOGO.PNG">
+
+
+
+      
+        <H2 style="color:blue;" ALIGN=LEFT"><big><i>HUDAN ENGINEERING WORKS LTD</big></i></H2>
+
+<H3 >CONTACT INFORMATION</H3>
+<P >P.O. BOX 60 SEETA MUKONO;</P>
+<P >TEL: +0774654318;</P>
+<P >Email:<a href="http://hudanengineeringworkslimited@gmail.com">hudanengineeringworkslimited@gmail.com</a></p>
+<p2>
+</HEAD>
+<BODY>
+
+
+
+</p>
+</body>
+</html>   
+<P><B>Profile of Hudan Engineering Works Ltd</B></P>
+<P>Hudan Engineering Works Ltd is a limited liability company that was incorporated in the year 2020.
+<P>The company is managed by Ugandans of diverse educational fields and experience.
+<P> The management of Hudan Engineering Works Ltd has vast experience in the construction industry.
+ <P>Above and beyond specific tasks, Hudan Engineering Works Ltd also offers multidisciplinary construction in diversified projects that are to be executed as a single and coherent assignment.
+ In all our operations, emphasis is put on client satisfaction.
+<P><B>OUR MISSION</B></p>
+<P>To become a highly regarded and competitive organization in the provision of construction services
+Hudan Engineering Works Ltd has consistently posted growth in turnover and profits it and has always been a profitable company since the date of its inception. We currently have an annual value of business worth over I.4billion Ugandan Shillings.
+<P>
+<P><B>OUR EXPERTISE</B></P>
+<p>To-date, Hudan Engineering Works Ltd has had staff working on assignments in various parts of Uganda,
+ Our fields of expertise and services offered fall under the following specialist Departments.
+<P><B>Civil Works/Infrastructure Development</B></P>
+<P>The company staffs through their experience have built capacity to tackle moderate infrastructural projects related to building construction,
+ water, sewerage and drainage systems for both rural and urban settings right from planning, designing through to implementation. 
+
+
+<centre><IMG SRC="C:\Users\HUDAN\Pictures\kkk.jpg "ALIGN="CENTER"></center>
+<IMG SRC="C:\Users\HUDAN\Pictures\0e213bd8-e5af-4ed3-8d1a-66e1de231a06.jpg "ALIGN="CENTER"></center>
+<IMG SRC=" C:\Users\HUDAN\Pictures\235bb7b2-5956-4985-846b-54dd869143c1.jpg"ALIGN="CENTER"></center>
+<IMG SRC=" C:\Users\HUDAN\Pictures\a210db17-ee2d-4ddf-9ffb-485fcf2c20be.jpg"ALIGN="CENTER"></center>
+<IMG SRC=" C:\Users\HUDAN\Pictures\4733066d-74cf-4032-9982-0263800513f6.jpg"ALIGN="CENTER"></center>
+<IMG SRC=" C:\Users\HUDAN\Pictures\f5936801-a38b-42ea-9922-5e3d9c719627.jpg"ALIGN="CENTER"></center>
+<IMG SRC=" C:\Users\HUDAN\Pictures\48579b06-7651-45fd-9d75-98159659a24f.jpg"ALIGN="CENTER"></center>
+<IMG SRC=" C:\Users\HUDAN\Pictures\d99ba11a-73c1-49ca-bdaa-4c7f0ca3a06d.jpg"ALIGN="CENTER"></center>
+<IMG SRC=" C:\Users\HUDAN\Pictures\e6f8fb1b-e8d6-4ea3-8a59-4ec29cc0c9a0.jpg"ALIGN="CENTER"></center>
+<IMG SRC=" C:\Users\HUDAN\Pictures\fe35f5dd-34f2-4485-8db0-11eb7a27289d.jpg"ALIGN="CENTER"></center>
+<IMG SRC=" C:\Users\HUDAN\Pictures\mixer.hudan.png"ALIGN="CENTER"></center>
